@@ -1,0 +1,49 @@
+projectName: "glossaryofDigitalMarketing"
+jsonFilePath: "./digitalmarketing_formatted.json"
+baseUrl: "https://publish7.com"
+portalHeading: "Glossary of Digital Marketing"
+portalDescription: "Transform your marketing with AI agents. Automate tasks, save time, and boost growth effortlessly—your go-to solution for all marketing needs."
+portalTitle: "AI Agents for Marketing: Automate & Optimize in Seconds"
+searchPlaceholder: "Search for AI marketing tools..."
+useAlphabetsCategory: true
+homeLink: "https://publish7.com/"
+logoLink: "/"
+logoImgUrl: "https://publish7.com/images/logo.svg"
+ctaLink: "https://publish7.com/auth"
+copyrightText: "© Copyright 2023 Publish7."
+faviconUrl: "https://publish7.com/favicon.ico"
+googleTagManagerId: "GTM-MMKDXNT6"
+pagesTitle:
+  prefix: ""
+  suffix: ""
+categoryPagesTitle:
+  prefix: ""
+  suffix: ""
+templateRoot:
+  - "./templates"
+  - "./templates"
+homeTemplatePath: "./templates/homePageTemplate.ejs"
+categoryTemplatePath: "./templates/categoryTemplate.ejs"
+pageTemplatePath: "./templates/pagesTemplate.ejs"
+outputDir: "./output"
+ctaText: "Get started — it's free"
+socialLinks:
+  - platform: "LinkedIn"
+    url: "https://www.linkedin.com/company/publish7/"
+theme:
+  primaryColor: "#1E3A8A"
+  secondaryColor: "#FBBF24"
+  backgroundColor: "#F9FAFB"
+  textColor: "#111827"
+  accentColor: "#3B82F6"
+fonts:
+  - family: "Inter"
+    weights:
+      - 400
+      - 500
+      - 600
+  - family: "Satoshi"
+    weights:
+      - 500
+      - 600
+      - 700
